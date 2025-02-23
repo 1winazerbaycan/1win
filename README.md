@@ -2,7 +2,7 @@
 
 Bu layihə **1win** platforması haqqında istifadəçiləri məlumatlandırmaq və onları **1win**-də bahis etməyə təşviq etmək məqsədi güdür. İstifadəçilər burada bahis edə, casino oyunları oynaya və yüksək mərclərlə qazanc əldə edə bilərlər.
 
-![Fotoğraf Başlığı](https://github.com/kullanici-adiniz/repositori-adi/blob/main/dosya-adi.jpg)
+![Fotoğraf Başlığı](mYKkQYoUsX-rraWNEv6gOniFAycqMoUFS8lzdgQ0CgOFtBFiHfw3JF_oAxcZXll3tnGj-AgeBdAFeetmhKH4G-7zeInU-phLtCEm.png)
 
 
 ## Başlanğıc
