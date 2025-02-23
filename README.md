@@ -1,7 +1,5 @@
 # 1win - Qeydiyyat ve Giriş üçün rahat yer!
-
-Bu layihə **1win** platforması haqqında istifadəçiləri məlumatlandırmaq və onları **1win**-də bahis etməyə təşviq etmək məqsədi güdür. İstifadəçilər burada bahis edə, casino oyunları oynaya və yüksək mərclərlə qazanc əldə edə bilərlər.
-
+[1win Qeydiyyat Linki](https://1wxgwp.top/v3/aggressive-casino?p=alrj)
 
 [![Resim Başlığı](https://raw.githubusercontent.com/1winazerbaycan/1win/refs/heads/main/photo_2025-02-24_02-45-18.jpg)](https://1wxgwp.top/v3/aggressive-casino?p=alrj) 
 
