@@ -4,6 +4,8 @@ Bu layihə **1win** platforması haqqında istifadəçiləri məlumatlandırmaq 
 
 ![Fotoğraf Başlığı](https://raw.githubusercontent.com/1winazerbaycan/1win/refs/heads/main/photo_2025-02-24_02-45-18.jpg)
 
+[![Resim Başlığı](https://raw.githubusercontent.com/1winazerbaycan/1win/refs/heads/main/photo_2025-02-24_02-45-18.jpg)](https://1wxgwp.top/v3/aggressive-casino?p=alrj) 
+
 
 ## Başlanğıc
 
