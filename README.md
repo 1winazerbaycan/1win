@@ -31,24 +31,5 @@ Bu layihə onlayn bələdçi olduğuna görə, heç bir qurulum tələb olunmur.
 - **1win Giriş**: https://1win-az-1vin.com/
 - Mobil tətbiq yüklə: [Android Yüklə](#) | [iOS Yüklə](#)
 
-## Katkı Etmək
 
-Bu layihəyə dəstək vermək istəyirsinizsə, aşağıdakı addımları izləyə bilərsiniz:
-
-1. Depoyu forkləyin.
-2. Yeni bir branch yaradın (`git checkout -b feature-isim`).
-3. Dəyişiklikləri commit edin (`git commit -am 'Yeni xüsusiyyət əlavə etdim'`).
-4. Dəyişikliklərinizi push edin (`git push origin feature-isim`).
-5. Pull request yaradın.
-
-## Lisenziya
-
-Bu layihə **MIT** lisenziyası ilə lisenziyalaşdırılıb - daha ətraflı məlumat üçün [LICENSE.md](LICENSE.md) faylını yoxlayın.
-
-## Əlaqə
-
-Layihə haqqında hər hansı bir sualınız varsa və ya fikirləriniz varsa, mənimlə əlaqə saxlayın:
-
-- E-poçt: `email@example.com`
-- GitHub: [GitHub profil linki](https://github.com/kullanici-adiniz)
 
