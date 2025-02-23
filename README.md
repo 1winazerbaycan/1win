@@ -1,4 +1,4 @@
-# 1win - Qeydiyyar ve Giriş üçün rahat yer!
+# 1win - Qeydiyyat ve Giriş üçün rahat yer!
 
 Bu layihə **1win** platforması haqqında istifadəçiləri məlumatlandırmaq və onları **1win**-də bahis etməyə təşviq etmək məqsədi güdür. İstifadəçilər burada bahis edə, casino oyunları oynaya və yüksək mərclərlə qazanc əldə edə bilərlər.
 
