@@ -2,7 +2,7 @@
 
 Bu layihə **1win** platforması haqqında istifadəçiləri məlumatlandırmaq və onları **1win**-də bahis etməyə təşviq etmək məqsədi güdür. İstifadəçilər burada bahis edə, casino oyunları oynaya və yüksək mərclərlə qazanc əldə edə bilərlər.
 
-![Fotoğraf Başlığı]([mYKkQYoUsX-rraWNEv6gOniFAycqMoUFS8lzdgQ0CgOFtBFiHfw3JF_oAxcZXll3tnGj-AgeBdAFeetmhKH4G-7zeInU-phLtCEm.png](https://github.com/1winazerbaycan/1win/blob/main/photo_2025-02-24_02-45-18.jpg?raw=true))
+![Fotoğraf Başlığı](https://raw.githubusercontent.com/1winazerbaycan/1win/refs/heads/main/photo_2025-02-24_02-45-18.jpg)
 
 
 ## Başlanğıc
